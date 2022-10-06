@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravasopouloz
 - 👀 I’m interested in computer engineering and machine learning
-- 🌱 I’m currently studying at a greek univercity at the department of computer engineering and informatics
+- 🌱 I’m currently studying at a greek university at the department of computer engineering and informatics
 - 💞 I'm looking for helpful tips on how to get more keen on coding and problem solving mindsets
 - 📫 How to reach me: giannis.ravasopoulos@gmail.com (gmail), @ravasopouloz (instagram)
 
